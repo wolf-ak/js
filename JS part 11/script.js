@@ -6,6 +6,7 @@ function savetoDB(data){
     }else{reject("failure : data was not saved");}
     });
 }
+
 // let promise_obj=savetoDB("Lenovo LOQ 15");
 // // console.log(promise_obj);
 // promise_obj.then(()=>{
